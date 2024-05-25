@@ -1,0 +1,1 @@
+# tuf-gaming-b650M-EFI
